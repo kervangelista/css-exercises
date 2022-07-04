@@ -1,0 +1,17 @@
+.odd-number {
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+  background-color: pink;
+
+}
+.odd-number.larger {
+  font-size: 24px;
+}
+#first-id {
+  color: blue;
+  font-size: 36px;
+}
+#second-id {
+  background-color: lightgreen;
+  font-size: 24px;
+  font-weight: bold;
+}
